@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\bin\Debug\App2_Aula02.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\bin\Debug\App2_Aula02.exe
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\bin\Debug\App2_Aula02.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\obj\Debug\App2_Aula02.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\obj\Debug\App2_Aula02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\obj\Debug\App2_Aula02.Form1.resources
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\obj\Debug\App2_Aula02.Properties.Resources.resources
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\obj\Debug\App2_Aula02.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\obj\Debug\App2_Aula02.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\obj\Debug\App2_Aula02.exe
+C:\Users\Aluno\Documents\Rian Lima\C\App2_Aula02\App2_Aula02\obj\Debug\App2_Aula02.pdb
