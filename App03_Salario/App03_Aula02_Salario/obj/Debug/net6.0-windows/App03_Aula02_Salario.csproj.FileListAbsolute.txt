@@ -1,0 +1,17 @@
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\bin\Debug\net6.0-windows\App03_Aula02_Salario.exe
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\bin\Debug\net6.0-windows\App03_Aula02_Salario.deps.json
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\bin\Debug\net6.0-windows\App03_Aula02_Salario.runtimeconfig.json
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\bin\Debug\net6.0-windows\App03_Aula02_Salario.dll
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\bin\Debug\net6.0-windows\App03_Aula02_Salario.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.Form1.resources
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.dll
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\refint\App03_Aula02_Salario.dll
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\App03_Aula02_Salario.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Rian Lima\C\App03_Salario\App03_Aula02_Salario\obj\Debug\net6.0-windows\ref\App03_Aula02_Salario.dll
