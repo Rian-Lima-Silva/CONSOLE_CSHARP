@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\bin\Debug\net6.0\ProjetoDeTeste.exe
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\bin\Debug\net6.0\ProjetoDeTeste.deps.json
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\bin\Debug\net6.0\ProjetoDeTeste.runtimeconfig.json
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\bin\Debug\net6.0\ProjetoDeTeste.dll
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\bin\Debug\net6.0\ProjetoDeTeste.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ProjetoDeTeste.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ProjetoDeTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ProjetoDeTeste.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ProjetoDeTeste.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ProjetoDeTeste.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ProjetoDeTeste.dll
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\refint\ProjetoDeTeste.dll
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ProjetoDeTeste.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ProjetoDeTeste.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Projeto01\ProjetoDeTeste\obj\Debug\net6.0\ref\ProjetoDeTeste.dll
