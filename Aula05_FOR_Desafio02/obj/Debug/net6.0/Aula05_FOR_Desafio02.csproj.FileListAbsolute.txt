@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\bin\Debug\net6.0\Aula05_FOR_Desafio02.exe
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\bin\Debug\net6.0\Aula05_FOR_Desafio02.deps.json
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\bin\Debug\net6.0\Aula05_FOR_Desafio02.runtimeconfig.json
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\bin\Debug\net6.0\Aula05_FOR_Desafio02.dll
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\bin\Debug\net6.0\Aula05_FOR_Desafio02.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\Aula05_FOR_Desafio02.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\Aula05_FOR_Desafio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\Aula05_FOR_Desafio02.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\Aula05_FOR_Desafio02.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\Aula05_FOR_Desafio02.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\Aula05_FOR_Desafio02.dll
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\refint\Aula05_FOR_Desafio02.dll
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\Aula05_FOR_Desafio02.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\Aula05_FOR_Desafio02.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Aula05\Aula05_FOR_Desafio02\obj\Debug\net6.0\ref\Aula05_FOR_Desafio02.dll
