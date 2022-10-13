@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\Rian Lima\C\Aula_Metodos\Aula_Metodos_02\bin\Debug\Aula_Metodos_02.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\Aula_Metodos\Aula_Metodos_02\bin\Debug\Aula_Metodos_02.exe
+C:\Users\Aluno\Documents\Rian Lima\C\Aula_Metodos\Aula_Metodos_02\bin\Debug\Aula_Metodos_02.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\Aula_Metodos\Aula_Metodos_02\obj\Debug\Aula06_Metodos_02.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Aula_Metodos\Aula_Metodos_02\obj\Debug\Aula06_Metodos_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Aula_Metodos\Aula_Metodos_02\obj\Debug\Aula06_Metodos_02.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\Aula_Metodos\Aula_Metodos_02\obj\Debug\Aula_Metodos_02.exe
+C:\Users\Aluno\Documents\Rian Lima\C\Aula_Metodos\Aula_Metodos_02\obj\Debug\Aula_Metodos_02.pdb
