@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\bin\Debug\POO_Aula02_App02.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\bin\Debug\POO_Aula02_App02.exe
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\bin\Debug\POO_Aula02_App02.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\obj\Debug\POO_Aula02_App02.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\obj\Debug\POO_Aula02_App02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\obj\Debug\POO_Aula02_App02.Form1.resources
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\obj\Debug\POO_Aula02_App02.Properties.Resources.resources
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\obj\Debug\POO_Aula02_App02.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\obj\Debug\POO_Aula02_App02.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\obj\Debug\POO_Aula02_App02.exe
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02_AppNomeCalculo\POO_Aula02_App02\obj\Debug\POO_Aula02_App02.pdb
