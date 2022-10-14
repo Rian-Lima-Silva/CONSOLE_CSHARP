@@ -1,0 +1,11 @@
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\obj\Debug\POO_Aula02_Forms.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\obj\Debug\POO_Aula02_Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\obj\Debug\POO_Aula02_Forms.Form1.resources
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\obj\Debug\POO_Aula02_Forms.Properties.Resources.resources
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\obj\Debug\POO_Aula02_Forms.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\obj\Debug\POO_Aula02_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\bin\Debug\POO_Aula02_Forms.exe.config
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\bin\Debug\POO_Aula02_Forms.exe
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\bin\Debug\POO_Aula02_Forms.pdb
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\obj\Debug\POO_Aula02_Forms.exe
+C:\Users\Aluno\Documents\Rian Lima\C\POO_Aula02\POO_Aula02_Forms\obj\Debug\POO_Aula02_Forms.pdb
